@@ -1,6 +1,6 @@
-# sms_project
+# fms_project
 
-SMS Project
+FMS Project
 
 ## Getting Started
 
